@@ -19,6 +19,9 @@ Download the code through github and open through command terminal or VS Code
 ## Usage
 Enter in your information about your project to create a professional readme
 
+A Video guide on how to use the application properly
+https://drive.google.com/file/d/1Bi4d1H3R6d_md7fIl4O2zg0nO3mMHL6L/view
+
 ## License
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
